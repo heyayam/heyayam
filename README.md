@@ -1,8 +1,5 @@
 # Hey, I'm Ayam 👋
 
-> *Engineer. I figure things out and build muscle.*
-
-📍 Navi Mumbai &nbsp;|&nbsp; 🔗 [github.com/heyayam](https://github.com/heyayam) &nbsp;|&nbsp; he/him
 
 ---
 
