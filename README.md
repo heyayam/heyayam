@@ -38,16 +38,7 @@ I'm a builder at heart — whether it's low-level systems, IoT devices, or geosp
 > A growing collection of projects built in low-level programming languages — diving deep into how things actually work.  
 `C` · `Systems Programming`
 
----
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyayam&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyayam&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📫 Reach Me
 
