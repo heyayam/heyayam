@@ -1,4 +1,4 @@
-# Hey, I'm Ayam 👋
+# Hi, I'm Ayam 👋
 
 
 ---
