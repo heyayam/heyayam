@@ -25,17 +25,6 @@ I'm a builder at heart — whether it's low-level systems, IoT devices, or geosp
 
 ---
 
-### 💧 [hydrolytics](https://github.com/heyayam/hydrolytics)
-> A geospatial water quality analytics system that simulates environmental monitoring data and identifies contamination risk using spatial intelligence techniques.  
-`Python` · `Geospatial` · `Data Analytics`
-
----
-
-### ⚙️ [Low-level-projects](https://github.com/heyayam/Low-level-projects)
-> A growing collection of projects built in low-level programming languages — diving deep into how things actually work.  
-`C` · `Systems Programming`
-
-
 
 ## 📫 Reach Me
 
